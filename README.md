@@ -3,6 +3,8 @@ A suuuuuuper simple node/express app serving a JSON:API compliant payload for co
 
 # Setup
 
-* [Install mongodb](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/)
-* npm install
-* node index.js
+[Install mongodb](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/)
+
+    $ npm install
+
+    $ node index.js
