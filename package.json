@@ -1,0 +1,16 @@
+{
+  "name": "contact_manager_backend_node",
+  "version": "1.0.0",
+  "description": "A simple Node Express app serving a JSON:API compliant API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "json-api": "^2.15.7",
+    "mongoose": "^4.5.1"
+  }
+}
